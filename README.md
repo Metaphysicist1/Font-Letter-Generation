@@ -2,9 +2,7 @@
 ## Font-Letter Generator GAN Project 
 ### For defending a bachelor's thesis at Batumi Shota Rustaveli State University
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
 
 For Ubuntu [Tested]
 Step 1:
