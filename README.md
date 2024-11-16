@@ -1,25 +1,33 @@
+# 🎨 Font-Letter Generator GAN Project
 
-## Font-Letter Generator GAN Project 
-### For defending a bachelor's thesis at Batumi Shota Rustaveli State University
-Project achievement: Implemented and trained deep learning model on handwriting image data where
-the model generates English alphabet letter images which are specifically unique.
-During the project, take into account the estimation of results.
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-orange.svg)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Tested-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🎯 Overview
+A Generative Adversarial Network (GAN) project developed for a bachelor's thesis at Batumi Shota Rustaveli State University. The model generates unique English alphabet letter images using deep learning techniques trained on handwriting data.
 
-For Ubuntu [Tested] <br>
-**Step 1:**
-  Clone this repository. <br>
-  ```code
-  git clone https://github.com/Metaphysicist1/Bachelor_Thesis.git
-```
-**Step 2:** 
-  install requirements.txt <br>
-  ```python
-  pip install -r requirements.txt
-  ```
-**Step 3:** <br>
-  Download image data from this link: [dataset](https://www.kaggle.com/datasets/thomasqazwsxedc/alphabet-characters-fonts-dataset) <br>    <br>
-**Step 4:**
-  Set folders path and dataset properly in **main_code.ipynb** and run cells <br>  <br> 
-**Step Optional:**
-   For now, if interested in generating a specific letter font you have to  change the dataset directory. 
+<p align="center">
+  <img src="assets/sample_generation.gif" alt="Letter Generation Demo" width="600"/>
+</p>
+
+## ✨ Key Features
+- 🖼️ Unique letter font generation
+- 📝 English alphabet support
+- 🔄 GAN architecture
+- 📊 Result estimation metrics
+- 🎯 Customizable letter generation
+
+## 🛠️ Tech Stack
+- **Deep Learning Framework:** TensorFlow/PyTorch
+- **Language:** Python
+- **Environment:** Ubuntu (Tested)
+- **Data Processing:** NumPy, OpenCV
+- **Visualization:** Matplotlib
+
+### Prerequisites
+- Ubuntu OS (Recommended)
+- Python 3.8+
+- pip package manager
+
